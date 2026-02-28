@@ -1,0 +1,83 @@
+==== HOSTNAME ====
+victima-VMware-Virtual-Platform
+
+==== UNAME ====
+Linux victima-VMware-Virtual-Platform 6.17.0-14-generic #14~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Jan 15 15:52:10 UTC 2 x86_64 x86_64 x86_64 GNU/Linux
+
+==== UPTIME ====
+18:48:18 up  1:09,  1 user,  load average: 0.29, 0.64, 0.52
+
+==== CURRENT USER ====
+victima
+
+==== OS RELEASE ====
+PRETTY_NAME="Ubuntu 24.04.2 LTS"
+NAME="Ubuntu"
+VERSION_ID="24.04"
+VERSION="24.04.2 LTS (Noble Numbat)"
+VERSION_CODENAME=noble
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=noble
+LOGO=ubuntu-logo
+
+==== USERS ====
+root
+daemon
+bin
+sys
+sync
+games
+man
+lp
+mail
+news
+uucp
+proxy
+www-data
+backup
+list
+irc
+_apt
+nobody
+systemd-network
+systemd-timesync
+dhcpcd
+messagebus
+syslog
+systemd-resolve
+uuidd
+usbmux
+tss
+systemd-oom
+kernoops
+whoopsie
+dnsmasq
+avahi
+tcpdump
+sssd
+speech-dispatcher
+cups-pk-helper
+fwupd-refresh
+saned
+geoclue
+cups-browsed
+hplip
+gnome-remote-desktop
+polkitd
+rtkit
+colord
+gnome-initial-setup
+gdm
+nm-openvpn
+victima
+sshd
+victima1
+victima2
+victima3
+_galera
+mysql
